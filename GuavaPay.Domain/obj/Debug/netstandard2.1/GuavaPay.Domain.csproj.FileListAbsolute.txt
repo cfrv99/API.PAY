@@ -1,0 +1,9 @@
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\bin\Debug\netstandard2.1\GuavaPay.Domain.deps.json
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\bin\Debug\netstandard2.1\GuavaPay.Domain.dll
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\bin\Debug\netstandard2.1\GuavaPay.Domain.pdb
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\obj\Debug\netstandard2.1\GuavaPay.Domain.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\obj\Debug\netstandard2.1\GuavaPay.Domain.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\obj\Debug\netstandard2.1\GuavaPay.Domain.AssemblyInfo.cs
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\obj\Debug\netstandard2.1\GuavaPay.Domain.dll
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\obj\Debug\netstandard2.1\GuavaPay.Domain.pdb
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Domain\obj\Debug\netstandard2.1\GuavaPay.Domain.csproj.CoreCompileInputs.cache

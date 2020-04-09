@@ -1,0 +1,12 @@
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\bin\Debug\netstandard2.1\GuavaPay.Infrastructure.deps.json
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\bin\Debug\netstandard2.1\GuavaPay.Infrastructure.dll
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\obj\Debug\netstandard2.1\GuavaPay.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\obj\Debug\netstandard2.1\GuavaPay.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\obj\Debug\netstandard2.1\GuavaPay.Infrastructure.AssemblyInfo.cs
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\bin\Debug\netstandard2.1\GuavaPay.Domain.dll
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\bin\Debug\netstandard2.1\GuavaPay.Domain.pdb
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\obj\Debug\netstandard2.1\GuavaPay.Infrastructure.csproj.CopyComplete
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\bin\Debug\netstandard2.1\GuavaPay.Infrastructure.pdb
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\obj\Debug\netstandard2.1\GuavaPay.Infrastructure.dll
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\obj\Debug\netstandard2.1\GuavaPay.Infrastructure.pdb
+C:\Users\Murad\source\repos\GuavaBackEndApiCore\GuavaPay.Infrastructure\obj\Debug\netstandard2.1\GuavaPay.Infrastructure.csproj.CoreCompileInputs.cache
